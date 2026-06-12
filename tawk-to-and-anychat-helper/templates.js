@@ -27,5 +27,8 @@
   { "name": "closing_bn",        "value": "আপনাকে আর কোনো তথ্য দিয়ে সহযোগিতা করতে পারি?",                          "color": "#84cc16", "label": "Anything Else", "icon": "💬", "group": "Close"    },
 
   { "name": "bye_en",            "value": "Thank you for contacting us. Have a great day!",                              "color": "#65a30d", "label": "Goodbye",       "icon": "👍", "group": "Close"    },
-  { "name": "bye_bn",            "value": "আমাদের সাথে যোগাযোগ করার জন্য ধন্যবাদ। আপনার দিনটি শুভ হোক।",             "color": "#65a30d", "label": "Goodbye",       "icon": "👍", "group": "Close"    }
+  { "name": "bye_bn",            "value": "আমাদের সাথে যোগাযোগ করার জন্য ধন্যবাদ। আপনার দিনটি শুভ হোক।",             "color": "#65a30d", "label": "Goodbye",       "icon": "👍", "group": "Close"    },
+
+  {"name": "combd_requirements_en", "value": "To register a com.bd domain, you will need your NID, a passport-size photo, and a trade license.", "color": "#2563eb", "label": "com.bd Requirements", "icon": "📄", "group": "Domain" },
+  {"name": "combd_requirements_bn", "value": "com.bd ডোমেইন নিতে হলে আপনার এনআইডি, পাসপোর্ট সাইজের ছবি ও ট্রেড লাইসেন্স লাগবে।", "color": "#2563eb", "label": "com.bd Requirements", "icon": "📄", "group": "Domain" }
 ]
