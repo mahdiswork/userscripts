@@ -31,4 +31,10 @@
 
   {"name": "combd_requirements_en", "value": "To register a com.bd domain, you will need your NID, a passport-size photo, and a trade license.", "color": "#2563eb", "label": "com.bd Requirements", "icon": "📄", "group": "Domain" },
   {"name": "combd_requirements_bn", "value": "com.bd ডোমেইন নিতে হলে আপনার এনআইডি, পাসপোর্ট সাইজের ছবি ও ট্রেড লাইসেন্স লাগবে।", "color": "#2563eb", "label": "com.bd Requirements", "icon": "📄", "group": "Domain" }
+
+  {"name": "nameserver_done_en", "value": "It has been configured successfully. After changing the nameservers, DNS propagation may take between 5 and 24 hours to become available across all networks. Kindly wait during this time.", "color": "#2563eb", "label": "Nameserver update done", "icon": "📄", "group": "Domain" },
+  {"name": "nameserver_done_bn", "value": "সেট করে দেওয়া হয়েছে। নেম সার্ভার চেঞ্জ করার পর প্রপাগেশনের জন্য ৫-২৪ ঘন্টা পর্যন্ত সময় লাগে সকল নেটওয়ার্কে এভেইলেবল হতে তাই কাইন্ডলি অপেক্ষা করুন আশাকরি এর আগেই হয়ে যাবে।", "color": "#2563eb", "label": "Nameserver update done", "icon": "📄", "group": "Domain" }
+
+  {"name": "regular_offer_en", "value": "Now .COM domain Free with Min 31.25$/2500/- Hosting, or 25% OFF with any Linux Hosting Pack..COM Free Promo Code: COMFREE And 25% OFF Promo Code: HappyEver", "color": "#2563eb", "label": "Regular Offer .com free", "icon": "📄", "group": "Offer" },
+  {"name": "regular_offer_bn", "value": "আপনি যদি লিনাক্স হোস্টিং এর ১ বছরের জন্য ২৫০০ টাকার উপর যেকোনো প্যাকেজ নেন তাহলে .com ডোমেইন ফ্রি নিতে পারবেন প্রথম বছরের জন্য অথবা হোস্টিং এ ২৫% অফার নিতে পারবেন।", "color": "#2563eb", "label": "Regular offer .com free", "icon": "📄", "group": "Offer" }
 ]
